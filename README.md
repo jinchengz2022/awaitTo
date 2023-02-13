@@ -1,4 +1,4 @@
-# awaitTo
+# await-to-js
 
 包装 async await，可便于获得error信息
  
